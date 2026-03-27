@@ -33,5 +33,9 @@ ecowatt-ai/
 │── requirements.txt
 │── README.md
 
+Author
 
+ Name:Abhash Pandey
+ Registration No-25BCE11412
+Course: Fundamentals of AI and ML 
 
