@@ -24,7 +24,8 @@ EcoWatt AI provides a simple, predictive solution that:
    `pip install pandas scikit-learn`
 3. **Run the AI model:**
    `python main.py`
-  
+ ## 📊 Model / Approach
+This project uses basic machine learning techniques to analyze input data and predict energy consumption. The model takes user input and provides estimated energy usage as output. 
    output picture
 <img width="1718" height="95" alt="Screenshot 2026-03-28 022845" src="https://github.com/user-attachments/assets/23aa51d6-d748-43ce-91ef-dc79dfc45b78" />
 ## 📂 Project Structure
