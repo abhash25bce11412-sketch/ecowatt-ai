@@ -116,7 +116,7 @@ streamlit run app.py
 * Prediction graphs
 * Alerts for abnormal usage
 
-*(Add screenshots here for better presentation)*
+<img width="1718" height="95" alt="Screenshot 2026-03-28 022845" src="https://github.com/user-attachments/assets/23aa51d6-d748-43ce-91ef-dc79dfc45b78" />
 
 ---
 
@@ -148,8 +148,7 @@ streamlit run app.py
 ## 📜 Note
 
 This project reflects continuous learning and development.
-Output
-<img width="1718" height="95" alt="Screenshot 2026-03-28 022845" src="https://github.com/user-attachments/assets/23aa51d6-d748-43ce-91ef-dc79dfc45b78" />
+
 
 👨‍💻 Author
 
